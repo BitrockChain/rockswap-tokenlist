@@ -22,6 +22,14 @@
       "symbol": "ROCK",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/eTwX5Yv.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x707a2464a04b9b8398Bb9BC10748CB75e7c037dd",
+      "name": "Wrapped Platform",
+      "symbol": "WRAP",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/t9Z4JwK.jpg"
     }
   ],
   "version": {
