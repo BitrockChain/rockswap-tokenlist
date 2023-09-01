@@ -1,0 +1,32 @@
+{
+  "name": "Bitrock Official Partnership",
+  "logoURI": "https://i.imgur.com/oTJ7Esj.png",
+  "keywords": [
+    "bitrock",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 7171,
+      "address": "0x413f0E3A440abA7A15137F4278121450416882d5",
+      "name": "Wrapped Bitrock",
+      "symbol": "WBROCK",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/oTJ7Esj.png"
+    },
+     {
+      "chainId": 7171,
+      "address": "0x826628622a8B55F4AF6aC2A1DD1273bF837e651a",
+      "name": "Rockswap",
+      "symbol": "ROCK",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/eTwX5Yv.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
