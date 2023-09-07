@@ -1,11 +1,11 @@
 {
-  "name": "BrockDefault",
+  "name": "BrockDefault2.1",
   "logoURI": "https://i.imgur.com/oTJ7Esj.png",
   "keywords": [
     "bitrock",
     "defi"
   ],
-  "timestamp": "2023-09-02T03:37:00.000+00:00",
+  "timestamp": "2023-09-08T03:32:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -30,6 +30,14 @@
       "symbol": "WRAP",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/t9Z4JwK.jpg"
+    },
+     {
+      "chainId": 7171,
+      "address": "0xAA72d86210AC33BcA2de6139403F9AF37398E721",
+      "name": "Milestone Millions",
+      "symbol": "MSMIL",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/tUHVRus.png"
     }
   ],
   "version": {
