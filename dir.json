@@ -46,6 +46,14 @@
       "symbol": "RR",
       "decimals": 9,
       "logoURI": "https://i.imgur.com/BzAHqUd.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0xE8a4F717Ac5b08BcCc7240D649af653b2577b36a",
+      "name": "APE",
+      "symbol": "APE",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/HeYvKG1.png"
     }
   ],
   "version": {
