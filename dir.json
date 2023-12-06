@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2023-12-07T03:40:00.000+00:00",
+  "timestamp": "2023-12-07T05:40:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -60,12 +60,12 @@
       "address": "0xD647a6E1F898c39bA594443c19De0872EA935310",
       "name": "USDBrock",
       "symbol": "USDB",
-      "decimals": 9,
+      "decimals": 6,
       "logoURI": "https://i.imgur.com/bmAE1Zs.png"
     }
   ],
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   }
