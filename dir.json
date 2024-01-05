@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2023-12-07T05:40:00.000+00:00",
+  "timestamp": "2024-01-05T05:40:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -62,10 +62,18 @@
       "symbol": "USDB",
       "decimals": 6,
       "logoURI": "https://i.imgur.com/bmAE1Zs.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0xa7c9bB7A6Fd13dCa85e9df12b4F91DC8bede225e",
+      "name": "Bitrock Wallet",
+      "symbol": "BRW",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/mFsYDl1.png"
     }
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
     "patch": 0
   }
