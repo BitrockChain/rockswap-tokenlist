@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-01-05T05:40:00.000+00:00",
+  "timestamp": "2024-01-09T05:40:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -70,10 +70,18 @@
       "symbol": "BRW",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/mFsYDl1.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x01C8b36c965ADB150CD4244EDB463D4bA96549d4",
+      "name": "HE-MAN",
+      "symbol": "HE-MAN",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/miuH5XY.png"
     }
   ],
   "version": {
-    "major": 9,
+    "major": 10,
     "minor": 0,
     "patch": 0
   }
