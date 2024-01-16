@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-01-09T05:41:00.000+00:00",
+  "timestamp": "2024-01-16T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -78,10 +78,18 @@
       "symbol": "HE-MAN",
       "decimals": 9,
       "logoURI": "https://i.imgur.com/miuH5XY.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0xE3f4157822C565875806f065be71e06516819b81",
+      "name": "Charizard",
+      "symbol": "CHZARD",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/9qwj2BJ.png"
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }
