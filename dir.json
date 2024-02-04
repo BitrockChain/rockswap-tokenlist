@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-01-16T05:41:00.000+00:00",
+  "timestamp": "2024-02-05T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -86,10 +86,18 @@
       "symbol": "CHZARD",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/9qwj2BJ.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0xa9fAE95179ba375b0E7e6Bcb4932Fb484138C6E4",
+      "name": "BitDog",
+      "symbol": "BDOG",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/PccAdsk.png"
     }
   ],
   "version": {
-    "major": 11,
+    "major": 12,
     "minor": 0,
     "patch": 0
   }
