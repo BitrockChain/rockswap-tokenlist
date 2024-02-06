@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-02-06T05:41:00.000+00:00",
+  "timestamp": "2024-02-07T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -102,10 +102,18 @@
       "symbol": "MICKEY",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/71zijBI.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x5c7917bee6305965746d7025f75be1416154a9df",
+      "name": "Punk Rock Pebbles",
+      "symbol": "PRP",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/qFBc4m5.png"
     }
   ],
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 0
   }
