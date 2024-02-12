@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-02-07T05:41:00.000+00:00",
+  "timestamp": "2024-02-12T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -110,10 +110,18 @@
       "symbol": "PRP",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/qFBc4m5.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x8a6162CdcBa0878212BD5C6857ff977E218E7772",
+      "name": "Sniper DAO",
+      "symbol": "SNIPER",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/nML3c3j.png"
     }
   ],
   "version": {
-    "major": 14,
+    "major": 15,
     "minor": 0,
     "patch": 0
   }
