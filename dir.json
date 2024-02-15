@@ -119,6 +119,14 @@
       "decimals": 18,
       "logoURI": "https://i.imgur.com/nML3c3j.png"
     }
+    {
+      "chainId": 7171,
+      "address": "0x2ae505d947254bd7fde48799cc388215348e1e23",
+      "name": "Gold Rock",
+      "symbol": "GROCK",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/nvKVUmh.png"
+    }
   ],
   "version": {
     "major": 15,
