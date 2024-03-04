@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-02-12T05:41:00.000+00:00",
+  "timestamp": "2024-03-04T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -118,10 +118,18 @@
       "symbol": "SNIPER",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/nML3c3j.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x55042d507502a703e6cAE5ee8534d784155d58A4",
+      "name": "RockoCoin",
+      "symbol": "Rocko",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/YbEYiCE.jpeg"
     }
   ],
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 0,
     "patch": 0
   }
