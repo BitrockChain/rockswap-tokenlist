@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-03-08T05:41:00.000+00:00",
+  "timestamp": "2024-04-04T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -126,10 +126,18 @@
       "symbol": "Rocko",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/YbEYiCE.jpeg"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x47094DeFB05E50309499aCd572fa107C89c3b305",
+      "name": "Dumbass Unchained",
+      "symbol": "DUMBASS",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/oNVowJo.png"
     }
   ],
   "version": {
-    "major": 17,
+    "major": 18,
     "minor": 0,
     "patch": 0
   }
