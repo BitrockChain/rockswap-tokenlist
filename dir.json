@@ -142,10 +142,18 @@
       "symbol": "Vegeta",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/7bqz4PA.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x6CA9FaF50879752fcd4395294Ba31F5E2733EdaA",
+      "name": "DUNALDPUMP",
+      "symbol": "DNLDP",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/gtb8kOE.png"
     }
   ],
   "version": {
-    "major": 19,
+    "major": 20,
     "minor": 0,
     "patch": 0
   }
