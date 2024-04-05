@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-04-04T05:41:00.000+00:00",
+  "timestamp": "2024-04-05T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -134,10 +134,18 @@
       "symbol": "DUMBASS",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/oNVowJo.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0xD409d88e378806EaA65cC27D0C104A9c67c41735",
+      "name": "VegetaCoin",
+      "symbol": "Vegeta",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/7bqz4PA.png"
     }
   ],
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 0,
     "patch": 0
   }
