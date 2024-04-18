@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-04-05T05:41:00.000+00:00",
+  "timestamp": "2024-04-18T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -150,10 +150,18 @@
       "symbol": "DNLDP",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/gtb8kOE.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x790FD268216857225061E59c54fD0BBF8b7845b0",
+      "name": "ROCK SHOCK",
+      "symbol": "ROCKS",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/x4u7ycQ.png"
     }
   ],
   "version": {
-    "major": 20,
+    "major": 21,
     "minor": 0,
     "patch": 0
   }
