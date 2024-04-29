@@ -5,7 +5,7 @@
     "bitrock",
     "defi"
   ],
-  "timestamp": "2024-04-18T05:41:00.000+00:00",
+  "timestamp": "2024-04-29T05:41:00.000+00:00",
   "tokens": [
     {
       "chainId": 7171,
@@ -158,10 +158,18 @@
       "symbol": "ROCKS",
       "decimals": 9,
       "logoURI": "https://i.imgur.com/x4u7ycQ.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0xfaF9a02dB868cb557aA9EF6C9eEAac34aFD013e2",
+      "name": "Jamma's Arcade",
+      "symbol": "jamma",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/mAPLzCP.png"
     }
   ],
   "version": {
-    "major": 21,
+    "major": 22,
     "minor": 0,
     "patch": 0
   }
