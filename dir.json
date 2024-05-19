@@ -113,6 +113,14 @@
     },
     {
       "chainId": 7171,
+      "address": "0x0a916d820aa1cdca99fd79b86f6c317abf86f653",
+      "name": "PopCatRock",
+      "symbol": "POPCATr",
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/dRpamqc.png"
+    },
+    {
+      "chainId": 7171,
       "address": "0x8a6162CdcBa0878212BD5C6857ff977E218E7772",
       "name": "Sniper DAO",
       "symbol": "SNIPER",
