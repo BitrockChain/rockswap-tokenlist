@@ -121,35 +121,11 @@
     },
     {
       "chainId": 7171,
-      "address": "0x55042d507502a703e6cAE5ee8534d784155d58A4",
-      "name": "RockoCoin",
-      "symbol": "Rocko",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/YbEYiCE.jpeg"
-    },
-    {
-      "chainId": 7171,
       "address": "0x47094DeFB05E50309499aCd572fa107C89c3b305",
       "name": "Dumbass Unchained",
       "symbol": "DUMBASS",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/oNVowJo.png"
-    },
-    {
-      "chainId": 7171,
-      "address": "0xD409d88e378806EaA65cC27D0C104A9c67c41735",
-      "name": "VegetaCoin",
-      "symbol": "Vegeta",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/7bqz4PA.png"
-    },
-    {
-      "chainId": 7171,
-      "address": "0x6CA9FaF50879752fcd4395294Ba31F5E2733EdaA",
-      "name": "DUNALDPUMP",
-      "symbol": "DNLDP",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/gtb8kOE.png"
     },
     {
       "chainId": 7171,
