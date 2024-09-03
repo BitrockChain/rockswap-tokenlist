@@ -25,14 +25,6 @@
     },
     {
       "chainId": 7171,
-      "address": "0x707a2464a04b9b8398Bb9BC10748CB75e7c037dd",
-      "name": "Wrapped Platform",
-      "symbol": "WRAP",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/t9Z4JwK.jpg"
-    },
-    {
-      "chainId": 7171,
       "address": "0xAA72d86210AC33BcA2de6139403F9AF37398E721",
       "name": "Milestone Millions",
       "symbol": "MSMIL",
@@ -81,14 +73,6 @@
     },
     {
       "chainId": 7171,
-      "address": "0xE3f4157822C565875806f065be71e06516819b81",
-      "name": "Charizard",
-      "symbol": "CHZARD",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/9qwj2BJ.png"
-    },
-    {
-      "chainId": 7171,
       "address": "0xa9fAE95179ba375b0E7e6Bcb4932Fb484138C6E4",
       "name": "BitDog",
       "symbol": "BDOG",
@@ -102,14 +86,6 @@
       "symbol": "MICKEY",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/71zijBI.png"
-    },
-    {
-      "chainId": 7171,
-      "address": "0x5c7917bee6305965746d7025f75be1416154a9df",
-      "name": "Punk Rock Pebbles",
-      "symbol": "PRP",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/qFBc4m5.png"
     },
     {
       "chainId": 7171,
