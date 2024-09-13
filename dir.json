@@ -69,7 +69,7 @@
       "name": "HE-MAN",
       "symbol": "HE-MAN",
       "decimals": 9,
-      "logoURI": "https://i.imgur.com/miuH5XY.png"
+      "logoURI": "https://i.imgur.com/BxxZczs.png"
     },
     {
       "chainId": 7171,
@@ -121,7 +121,7 @@
     }
   ],
   "version": {
-    "major": 23,
+    "major": 24,
     "minor": 0,
     "patch": 0
   }
