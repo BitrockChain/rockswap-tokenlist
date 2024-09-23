@@ -89,7 +89,7 @@
     },
     {
       "chainId": 7171,
-      "address": "0x8a6162CdcBa0878212BD5C6857ff977E218E7772",
+      "address": "0xf11D7c69EAC530e9bEC61A4EF7b607dc8F1a728b",
       "name": "Sniper DAO",
       "symbol": "SNIPER",
       "decimals": 18,
@@ -121,7 +121,7 @@
     }
   ],
   "version": {
-    "major": 24,
+    "major": 25,
     "minor": 0,
     "patch": 0
   }
