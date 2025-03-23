@@ -97,24 +97,24 @@
     },
     {
       "chainId": 7171,
-      "address": "0x790FD268216857225061E59c54fD0BBF8b7845b0",
-      "name": "ROCK SHOCK",
-      "symbol": "ROCKS",
-      "decimals": 9,
-      "logoURI": "https://i.imgur.com/x4u7ycQ.png"
-    },
-    {
-      "chainId": 7171,
       "address": "0xfaF9a02dB868cb557aA9EF6C9eEAac34aFD013e2",
       "name": "Jamma's Arcade",
       "symbol": "jamma",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/mAPLzCP.png"
+    },
+    {
+      "chainId": 7171,
+      "address": "0x790FD268216857225061E59c54fD0BBF8b7845b0",
+      "name": "ROCK SHOCK",
+      "symbol": "ROCKS",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/x4u7ycQ.png"
     }
   ],
   "version": {
     "major": 26,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
