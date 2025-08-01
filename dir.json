@@ -41,27 +41,11 @@
     },
     {
       "chainId": 7171,
-      "address": "0xE8a4F717Ac5b08BcCc7240D649af653b2577b36a",
-      "name": "APE",
-      "symbol": "APE",
-      "decimals": 9,
-      "logoURI": "https://i.imgur.com/HeYvKG1.png"
-    },
-    {
-      "chainId": 7171,
       "address": "0xD647a6E1F898c39bA594443c19De0872EA935310",
       "name": "USDBrock",
       "symbol": "USDB",
       "decimals": 6,
       "logoURI": "https://i.imgur.com/bmAE1Zs.png"
-    },
-    {
-      "chainId": 7171,
-      "address": "0xa7c9bB7A6Fd13dCa85e9df12b4F91DC8bede225e",
-      "name": "Bitrock Wallet",
-      "symbol": "BRW",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/mFsYDl1.png"
     },
     {
       "chainId": 7171,
@@ -81,35 +65,11 @@
     },
     {
       "chainId": 7171,
-      "address": "0xf11D7c69EAC530e9bEC61A4EF7b607dc8F1a728b",
-      "name": "Sniper DAO",
-      "symbol": "SNIPER",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/nML3c3j.png"
-    },
-    {
-      "chainId": 7171,
-      "address": "0x47094DeFB05E50309499aCd572fa107C89c3b305",
-      "name": "Dumbass Unchained",
-      "symbol": "DUMBASS",
-      "decimals": 18,
-      "logoURI": "https://i.imgur.com/oNVowJo.png"
-    },
-    {
-      "chainId": 7171,
       "address": "0xfaF9a02dB868cb557aA9EF6C9eEAac34aFD013e2",
       "name": "Jamma's Arcade",
       "symbol": "jamma",
       "decimals": 18,
       "logoURI": "https://i.imgur.com/mAPLzCP.png"
-    },
-    {
-      "chainId": 7171,
-      "address": "0x790FD268216857225061E59c54fD0BBF8b7845b0",
-      "name": "ROCK SHOCK",
-      "symbol": "ROCKS",
-      "decimals": 9,
-      "logoURI": "https://i.imgur.com/x4u7ycQ.png"
     }
   ],
   "version": {
